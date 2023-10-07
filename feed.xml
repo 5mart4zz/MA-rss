@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://malheursactuels.com/feed.xml" rel="self" type="application/rss+xml" />
-    <title>YourSite</title>
+    <title>Malheurs Actuels</title>
     <link>https://malheursactuels.com</link>
-    <description>Something Describing Your Site</description>
-    <language>en-us</language>    
+    <description>Le media parodique dédié à l'inaction écologique</description>
+    <language>fr-fr</language>    
     <image>
-      <title>Picture Title</title>
-      <link>https://malheursactuels.com</link>
-      <url>https://malheursactuels.com/yourpicture.gif</url>
+      <title>MalheursActuelsLogo</title>
+      <link>https://www.malheursactuels.com/</link>
+      <url>https://lh6.googleusercontent.com/lqTqFvaKt-VwgmevjWh1DyspXZ7Z6MJhN4uNMhlloYz5bGRNnJoTeBAnhjs5-UaJbYMvfOcFSxWU8fMTcruSRCI=w16383</url>
       <width>70</width>
-      <height>55</height>
+      <height>70</height>
     </image>
     <item>
-      <title>Web Page 1 Title</title>
-      <pubDate>Mon, 6 Sep 2010 12:40:21 GMT</pubDate>
-      <link>https://malheursactuels.com/webpage1.html</link>
-      <guid>https://malheursactuels.com/item001</guid>
-      <description>Information about Web Page 1</description>
+      <title>&#128688; Innovation</title>
+      <pubDate>Mon, 2 Oct 2023 12:40:21 GMT</pubDate>
+      <link>https://malheursactuels.com/brèves</link>
+      <guid>https://malheursactuels.com/brèves</guid>
+      <description>Suite aux difficultés grandissantes pour se fournir dans les nappes phréatiques en France,Danone s'associe aux chasseurs d'icebergs. "Maintenant que nous sommes certains que la banquise va disparaître, nous voulons capitaliser sur toutes les ressources naturelles. En tant qu'entreprise à mission, ça serait bête de laisser fondre notre patrimoine mondial sans en profiter, non ?"</description>
     </item>
     <item>
-      <title>Web Page 2 Title</title>
-      <pubDate>Mon, 6 Sep 2010 12:40:21 GMT</pubDate>
-      <link>https://malheursactuels.com/webpage2.html</link>
-      <guid>https://malheursactuels.com/item002</guid>
-      <description>Information about Web Page 2</description>
+      <title>&#128688; Innovation 2</title>
+      <pubDate>Tue, 3 Oct 2023 12:40:21 GMT</pubDate>
+      <link>https://malheursactuels.com/brèves</link>
+      <guid>https://malheursactuels.com/brèves</guid>
+      <description>Suite aux difficultés grandissantes pour se fournir dans les nappes phréatiques en France,Danone s'associe aux chasseurs d'icebergs. "Maintenant que nous sommes certains que la banquise va disparaître, nous voulons capitaliser sur toutes les ressources naturelles. En tant qu'entreprise à mission, ça serait bête de laisser fondre notre patrimoine mondial sans en profiter, non ?"</description>
     </item>
     <item>
-      <title>Web Page 3 Title</title>
-      <pubDate>Mon, 6 Sep 2010 12:40:21 GMT</pubDate>
+      <title>&#128688; Innovation 3</title>
+      <pubDate>Wed, 4 Oct 2023 12:40:21 GMT</pubDate>
       <link>https://malheursactuels.com/webpage3.html</link>
       <guid>https://malheursactuels.com/item003</guid>
       <description>Information about Web Page 3</description>
