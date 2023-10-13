@@ -43,6 +43,5 @@
       <description>Information about Web Page 3</description>
       <media:thumbnail url="https://example.com/thumbnail3.jpg" height="200" width="200" />
     </item>
-    <!-- Include other items similarly -->
   </channel>
 </rss>
