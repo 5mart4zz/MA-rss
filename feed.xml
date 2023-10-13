@@ -1,34 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://malheursactuels.com/feed.xml" rel="self" type="application/rss+xml" />
     <title>Malheurs Actuels</title>
     <link>https://malheursactuels.com</link>
     <description>Le media parodique dédié à l'inaction écologique</description>
-    <language>fr-fr</language>    
+    <language>fr-fr</language>
     <image>
-      <title>MalheursActuelsLogo</title>
-      <link>https://www.malheursactuels.com/</link>
-      <url>https://lh6.googleusercontent.com/lqTqFvaKt-VwgmevjWh1DyspXZ7Z6MJhN4uNMhlloYz5bGRNnJoTeBAnhjs5-UaJbYMvfOcFSxWU8fMTcruSRCI=w16383</url>
+      <title>Malheurs Actuels</title>
+      <link>https://malheursactuels.com</link>
+      <url>https://example.com/logo.jpg</url>
       <width>70</width>
       <height>70</height>
     </image>
     <item>
       <title>&#128688; Innovation</title>
       <pubDate>Mon, 2 Oct 2023 12:40:21 GMT</pubDate>
-      <link>https://malheursactuels.com/brèves</link>
-      <guid>https://malheursactuels.com/brèves</guid>
+      <link>https://malheursactuels.com/breves</link>
+      <guid>https://malheursactuels.com/breves</guid>
       <description>
-        <![CDATA[<img align="left" hspace="5" src="https://www.google.fr/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcode-yoga%2Frandom-numbers-are-not-random-701dd2fbc2b8&psig=AOvVaw3eZdN-rFqY4qBcQE5eqtBc&ust=1696786961094000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiZ4JK-5IEDFQAAAAAdAAAAABAE"/>
- Suite aux difficultés grandissantes pour se fournir dans les nappes phréatiques en France,Danone s'associe aux chasseurs d'icebergs. "Maintenant que nous sommes certains que la banquise va disparaître, nous voulons capitaliser sur toutes les ressources naturelles. En tant qu'entreprise à mission, ça serait bête de laisser fondre notre patrimoine mondial sans en profiter, non ?"]]></description>
+        <![CDATA[<img align="left" hspace="5" src="https://example.com/image.jpg"/>
+        Suite aux difficultés grandissantes pour se fournir dans les nappes phréatiques en France, Danone s'associe aux chasseurs d'icebergs. "Maintenant que nous sommes certains que la banquise va disparaître, nous voulons capitaliser sur toutes les ressources naturelles. En tant qu'entreprise à mission, ça serait bête de laisser fondre notre patrimoine mondial sans en profiter, non ?"
+        ]]>
+      </description>
+      <media:thumbnail url="https://example.com/thumbnail.jpg" height="200" width="200" />
     </item>
     <item>
       <title>&#128688; Innovation 2</title>
       <pubDate>Tue, 3 Oct 2023 12:40:21 GMT</pubDate>
-      <link>https://malheursactuels.com/brèves</link>
-      <guid>https://malheursactuels.com/brèves</guid>
-      <description>Suite aux difficultés grandissantes pour se fournir dans les nappes phréatiques en France,Danone s'associe aux chasseurs d'icebergs. "Maintenant que nous sommes certains que la banquise va disparaître, nous voulons capitaliser sur toutes les ressources naturelles. En tant qu'entreprise à mission, ça serait bête de laisser fondre notre patrimoine mondial sans en profiter, non ?"</description>
-      <media:thumbnail url="https://www.google.fr/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcode-yoga%2Frandom-numbers-are-not-random-701dd2fbc2b8&psig=AOvVaw3eZdN-rFqY4qBcQE5eqtBc&ust=1696786961094000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiZ4JK-5IEDFQAAAAAdAAAAABAE" height="200" width="200" />
+      <link>https://malheursactuels.com/breves2</link>
+      <guid>https://malheursactuels.com/breves2</guid>
+      <description>
+        <![CDATA[Suite aux difficultés grandissantes pour se fournir dans les nappes phréatiques en France, Danone s'associe aux chasseurs d'icebergs. "Maintenant que nous sommes certains que la banquise va disparaître, nous voulons capitaliser sur toutes les ressources naturelles. En tant qu'entreprise à mission, ça serait bête de laisser fondre notre patrimoine mondial sans en profiter, non ?"
+        ]]>
+      </description>
+      <media:thumbnail url="https://example.com/thumbnail2.jpg" height="200" width="200" />
     </item>
     <item>
       <title>&#128688; Innovation 3</title>
@@ -36,7 +41,8 @@
       <link>https://malheursactuels.com/webpage3.html</link>
       <guid>https://malheursactuels.com/item003</guid>
       <description>Information about Web Page 3</description>
-      <media:thumbnail url="https://lh3.googleusercontent.com/5GKCFHcW83ijczNvdnNKhSINH7o5Ugz8JU4dbuW-byixCMkO1M-sJchzd9NMhWmcVooxKRWPvtjWuwKm2IJCBIc=w1280" height="200" width="200" />
+      <media:thumbnail url="https://example.com/thumbnail3.jpg" height="200" width="200" />
     </item>
+    <!-- Include other items similarly -->
   </channel>
 </rss>
